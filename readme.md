@@ -18,4 +18,4 @@ I grew up in an artistic household that prioritized curiosity and self-explorati
 
 ♦ **Database**: Mongo, Postgres, SQLite
 
-♦ **Other Tech:** Node.js, jQuery, EJS, JSX, Mongoose, REST API, JSON, MVC architecture
+♦ **Other Tech:** jQuery, EJS, JSX, Mongoose, REST API, JSON, MVC architecture
