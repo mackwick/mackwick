@@ -8,6 +8,41 @@ I am a detail-oriented full-stack software engineer with a passion for creativit
 
 I grew up in an artistic household that prioritized curiosity and self-exploration, so I’m committed to examining what it means to be my best self alone, in relationships, and in my communities. I’m excited about building products that encourage intentional living, introspection, and connection.
 
+## Portfolio
+
+### **[The List Roulette](https://thelistroulette.netlify.app/)**
+
+![The List Roulette](./images/BCF75602-C673-4B93-AC77-D923FF0AAD55.jpeg)
+
+- [Deployed on Netlify](https://thelistroulette.netlify.app/)
+- A quirky web app for managing TV shows and movies you told people you would watch. Create an account to add stuff to your list, then search by genre or use the roulette function when you can't decide what to watch.
+- **Built with:** React, Python, Django/REST Framework, PostgreSQL, Clerk
+
+### **[Potluck](https://potluck.onrender.com/)**
+
+![Potluck](./images/DD7BAAD0-4F61-4003-927E-3B3CD2930F9F.jpeg)
+
+- [Deployed on Render](https://potluck.onrender.com/)
+- An app for keeping track of recipes in lots of different formats.
+- **Built with:** JavaScript, MongoDB, Mongoose, Express, Node, BCrypt
+
+### **[Pause](https://takeapause.netlify.app/)**
+
+![Pause](./images/8E0FFB9F-2593-4ED0-863F-36374DCCAFB1.png)
+
+- [Deployed on Netlify](https://takeapause.netlify.app/)
+- A simple meditation app. Time your session, log how you felt before and after, and journal about any thoughts that came up.
+- **Built with:** React, TypeScript, Express, Node, PostgreSQL, Prisma, Clerk
+
+### **[Study Buddy](https://takeapause.netlify.app/)**
+
+![Study Buddy](./images/628FFAB8-BD65-43F4-BA7D-5FF2ABFA71E7.jpeg)
+
+- [Deployed on Netlify](https://takeapause.netlify.app/)
+- **Note:** This site's backend is deployed on Render's free tier and somewhat slow to load.
+- A full CRUD app to help you study. Create flashcard decks to quiz yourself on any topic.
+- **Built with:** React, MongoDB, Mongoose, Express, Node
+
 ## Skills
 
 ♦ **Languages:** JavaScript, TypeScript, Python
@@ -19,26 +54,3 @@ I grew up in an artistic household that prioritized curiosity and self-explorati
 ♦ **Database**: Mongo, PostgreSQL, SQLite
 
 ♦ **Other:** jQuery, EJS, JSX, Mongoose, Prisma, RESTful APIs, JSON, MVC architecture, VSCode, Git, GitHub, WordPress, Elementor, Slack, Constant Contact, MailChimp, Canva, Presto, Google Suite products, Microsoft Office (including Teams), Zoom, Trello, Wrike
-
-## Portfolio
-
-### **[The List Roulette](https://thelistroulette.netlify.app/)**
-
-- A quirky web app for managing TV shows and movies you told people you would watch. Create an account to add stuff to your list, then search by genre or use the roulette function when you can't decide what to watch.
-- **Built with:** React, Python, Django/REST Framework, PostgreSQL, Clerk
-
-### **[Potluck](https://potluck.onrender.com/)**
-
-- An app for keeping track of recipes in lots of different formats.
-- **Built with:** JavaScript, MongoDB, Mongoose, Express, Node, BCrypt
-
-### **[Pause](https://takeapause.netlify.app/)**
-
-- A simple meditation app. Time your session, log how you felt before and after, and journal about any thoughts that came up.
-- **Built with:** React, TypeScript, Express, Node, PostgreSQL, Prisma, Clerk
-
-### **[Study Buddy](https://takeapause.netlify.app/)**
-
-- **Note:** This site's backend is deployed on Render's free tier and somewhat slow to load.
-- A full CRUD app to help you study. Create flashcard decks to quiz yourself on any topic.
-- **Built with:** React, MongoDB, Mongoose, Express, Node
