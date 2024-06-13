@@ -34,11 +34,11 @@ I grew up in an artistic household that prioritized curiosity and self-explorati
 - A simple meditation app. Time your session, log how you felt before and after, and journal about any thoughts that came up.
 - **Built with:** React, TypeScript, Express, Node, PostgreSQL, Prisma, Clerk
 
-### **[Study Buddy](https://takeapause.netlify.app/)**
+### **[Study Buddy]([https://takeapause.netlify.app/](https://deluxe-trifle-0b2556.netlify.app/))**
 
 ![Study Buddy](./images/628FFAB8-BD65-43F4-BA7D-5FF2ABFA71E7.jpeg)
 
-- [Deployed on Netlify](https://takeapause.netlify.app/)
+- [Deployed on Netlify]([https://takeapause.netlify.app/](https://deluxe-trifle-0b2556.netlify.app/))
 - **Note:** This site's backend is deployed on Render's free tier and somewhat slow to load.
 - A full CRUD app to help you study. Create flashcard decks to quiz yourself on any topic.
 - **Built with:** React, MongoDB, Mongoose, Express, Node
