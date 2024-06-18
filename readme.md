@@ -8,7 +8,7 @@ I am a full-stack software engineer with a background in award-winning communica
 
 I grew up in an artistic household that prioritized curiosity and introspection, and I’m committed to examining what it means to be my best self alone, in relationships, and in my communities. My desire to contribute to the betterment of those communities – and the world – inspired my work in journalism and local government. It’s a principle I continue to hold dear.
 
-However, as my career transitioned to focus solely on communications, I realized I wanted to do something challenging that stretched my brain on a daily basis. Friends in tech would tell me about projects they were working on and it sounded so much more interesting than the work I was doing.
+However, as my career transitioned to focus solely on communications, I realized I wanted to do something more challenging that stretched my brain on a daily basis. Friends in tech would tell me about projects they were working on and it sounded so much more interesting than the work I was doing.
 
 So I took the leap into a coding bootcamp and I loved it. In software development, I have found the opportunity to be creative, solve complex problems, and continuously learn that I’ve been looking for. I’m excited about building products that encourage community engagement; informed, intentional living; and connection.
 
