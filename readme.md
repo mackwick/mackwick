@@ -14,14 +14,6 @@ So I took the leap into a coding bootcamp and I loved it. In software developmen
 
 ## Portfolio
 
-### **[The List Roulette](https://thelistroulette.netlify.app/)**
-
-![The List Roulette](./images/BCF75602-C673-4B93-AC77-D923FF0AAD55.jpeg)
-
-- [Deployed on Netlify](https://thelistroulette.netlify.app/)
-- A quirky web app for managing TV shows and movies you told people you would watch. Create an account to add stuff to your list, then search by genre or use the roulette function when you can't decide what to watch.
-- **Built with:** React, Python, Django/REST Framework, PostgreSQL, Clerk
-
 ### **[Potluck](https://potluck.onrender.com/)**
 
 ![Potluck](./images/DD7BAAD0-4F61-4003-927E-3B3CD2930F9F.jpeg)
@@ -37,6 +29,14 @@ So I took the leap into a coding bootcamp and I loved it. In software developmen
 - [Deployed on Netlify](https://takeapause.netlify.app/)
 - A simple meditation app. Time your session, log how you felt before and after, and journal about any thoughts that came up.
 - **Built with:** React, TypeScript, Express, Node, PostgreSQL, Prisma, Clerk
+
+### **[The List Roulette](https://thelistroulette.netlify.app/)**
+
+![The List Roulette](./images/BCF75602-C673-4B93-AC77-D923FF0AAD55.jpeg)
+
+- [Deployed on Netlify](https://thelistroulette.netlify.app/)
+- A quirky web app for managing TV shows and movies you told people you would watch. Create an account to add stuff to your list, then search by genre or use the roulette function when you can't decide what to watch.
+- **Built with:** React, Python, Django/REST Framework, PostgreSQL, Clerk
 
 ### **[Study Buddy](https://deluxe-trifle-0b2556.netlify.app/)**
 
