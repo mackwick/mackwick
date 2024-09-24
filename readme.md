@@ -10,7 +10,7 @@ I grew up in an artistic household that prioritized curiosity, introspection, an
 
 However, as my career transitioned to focus solely on communications, I realized I wanted to do something more challenging that stretched my brain on a daily basis. Friends in tech would tell me about projects they were working on and it sounded so much more interesting than the work I was doing.
 
-So I took the leap into a coding bootcamp and I loved it. In software development, I have found the opportunity to be creative, solve complex problems, and continuously learn that I’ve been looking for. I’m excited about building products that encourage community engagement; informed, intentional living; connection; and joy.
+So I took the leap into a coding bootcamp and I loved it. In software development, I have found the opportunity to be creative, solve complex problems, and continuously learn that I’ve been looking for.
 
 ## Portfolio
 
